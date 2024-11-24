@@ -1,0 +1,3 @@
+/home/waifu/projects/codeQuest/build/CMakeFiles/MyCppExecutable.dir
+/home/waifu/projects/codeQuest/build/CMakeFiles/edit_cache.dir
+/home/waifu/projects/codeQuest/build/CMakeFiles/rebuild_cache.dir
